@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-23T17:00:00Z",
+  "items": [
+    {
+      "id": "off-sakura-impact-shake",
+      "title": "Sakura Impact Shake + Flash",
+      "type": "comp",
+      "category": "Shakes / FX",
+      "badge": "official",
+      "featured": true,
+      "author": "@yuuki",
+      "aeVersion": "AE 2020+",
+      "fileSize": 420000,
+      "downloads": 1240,
+      "createdAt": "2026-11-20",
+      "description": "Official Yuuki impact shake adjustment rig with clean velocity decay and native motion blur.",
+      "requiredPlugins": [],
+      "tags": ["shake", "impact", "native", "anime"],
+      "thumbUrl": "",
+      "previewUrl": "",
+      "downloadUrl": "https://github.com/PersonalifeII/Yuuki-Library/releases/download/v1.0/Sakura_Impact_Shake.yuvault",
+      "sha256": ""
+    },
+    {
+      "id": "off-cyber-glass-cc",
+      "title": "Yuuki Soft Anime Glow CC",
+      "type": "preset",
+      "category": "CC / Looks",
+      "badge": "official",
+      "featured": true,
+      "author": "@yuuki",
+      "aeVersion": "AE 2021+",
+      "fileSize": 58000,
+      "downloads": 980,
+      "createdAt": "2026-11-21",
+      "description": "Crisp highlights + subtle halation CC look built for anime & AMV edits.",
+      "requiredPlugins": ["Deep Glow", "Magic Bullet Looks"],
+      "tags": ["cc", "glow", "anime", "halation"],
+      "thumbUrl": "",
+      "previewUrl": "",
+      "downloadUrl": "https://github.com/PersonalifeII/Yuuki-Library/releases/download/v1.0/Yuuki_Soft_Anime_Glow.ffx",
+      "sha256": ""
+    }
+  ]
+}
