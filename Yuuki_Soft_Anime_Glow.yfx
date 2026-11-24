@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Yuuki Soft Anime Glow CC",
+  "items": [
+    {
+      "kind": "effect",
+      "mn": "ADBE Glo2",
+      "name": "Yuuki Soft Glow",
+      "enabled": true,
+      "props": [
+        { "path": ["ADBE Glo2-0002"], "val": 55 },
+        { "path": ["ADBE Glo2-0003"], "val": 65 },
+        { "path": ["ADBE Glo2-0004"], "val": 1.1 }
+      ]
+    },
+    {
+      "kind": "effect",
+      "mn": "ADBE Brightness & Contrast 2",
+      "name": "Yuuki Contrast Boost",
+      "enabled": true,
+      "props": [
+        { "path": ["ADBE Brightness & Contrast 2-0001"], "val": 4 },
+        { "path": ["ADBE Brightness & Contrast 2-0002"], "val": 14 }
+      ]
+    }
+  ]
+}

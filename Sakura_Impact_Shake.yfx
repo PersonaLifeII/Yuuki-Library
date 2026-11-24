@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "name": "Sakura Impact Shake + Flash",
+  "items": [
+    {
+      "kind": "effect",
+      "mn": "ADBE Tile",
+      "name": "Sakura Motion Tile",
+      "enabled": true,
+      "props": [
+        { "path": ["ADBE Tile-0004"], "val": 180 },
+        { "path": ["ADBE Tile-0005"], "val": 180 },
+        { "path": ["ADBE Tile-0006"], "val": 1 }
+      ]
+    },
+    {
+      "kind": "effect",
+      "mn": "ADBE Exposure2",
+      "name": "Sakura Impact Flash",
+      "enabled": true,
+      "props": [
+        {
+          "path": ["ADBE Exposure2-0003"],
+          "keys": [
+            { "dt": 0, "v": 2.2, "ie": [{ "s": 0, "i": 16.67 }], "oe": [{ "s": 0, "i": 75 }] },
+            { "dt": 0.25, "v": 0.0, "ie": [{ "s": 0, "i": 80 }], "oe": [{ "s": 0, "i": 16.67 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "effect",
+      "mn": "ADBE Gaussian Blur 2",
+      "name": "Sakura Impact Blur",
+      "enabled": true,
+      "props": [
+        {
+          "path": ["ADBE Gaussian Blur 2-0001"],
+          "keys": [
+            { "dt": 0, "v": 28, "ie": [{ "s": 0, "i": 16.67 }], "oe": [{ "s": 0, "i": 75 }] },
+            { "dt": 0.22, "v": 0, "ie": [{ "s": 0, "i": 80 }], "oe": [{ "s": 0, "i": 16.67 }] }
+          ]
+        }
+      ]
+    },
+    {
+      "kind": "layerGroup",
+      "props": [
+        {
+          "path": ["ADBE Transform Group", "ADBE Scale"],
+          "keys": [
+            { "dt": 0, "v": [114, 114, 100], "ie": [{ "s": 0, "i": 16.67 }], "oe": [{ "s": 0, "i": 78 }] },
+            { "dt": 0.25, "v": [100, 100, 100], "ie": [{ "s": 0, "i": 82 }], "oe": [{ "s": 0, "i": 16.67 }] }
+          ]
+        }
+      ]
+    }
+  ]
+}
