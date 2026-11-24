@@ -1,7 +1,29 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T12:30:00Z",
+  "updatedAt": "2026-11-24T13:18:12.569Z",
   "items": [
+    {
+      "id": "off-meow",
+      "title": "Meow",
+      "type": "clip",
+      "category": "Scenepacks",
+      "badge": "official",
+      "featured": false,
+      "author": "@xinthecia",
+      "aeVersion": "AE 2025+",
+      "fileSize": 79298,
+      "downloads": 0,
+      "createdAt": "2026-11-24",
+      "description": "Just meow.",
+      "requiredPlugins": [],
+      "tags": [
+        "jpg"
+      ],
+      "thumbUrl": "https://raw.githubusercontent.com/PersonaLifeII/Yuuki-Library/main/assets/LIB-4P468/thumb.png",
+      "previewUrl": "",
+      "downloadUrl": "https://raw.githubusercontent.com/PersonaLifeII/Yuuki-Library/main/assets/LIB-4P468/2c0b7fb6f48c2d65a65a4bf65800c219.yuvault",
+      "sha256": "8e9b07c0d371a4ba5d60eaf41ef633d95aa78ee78563629c98d8873474ac1059"
+    },
     {
       "id": "off-sakura-impact-shake",
       "title": "Sakura Impact Shake + Flash",
@@ -16,7 +38,12 @@
       "createdAt": "2026-11-20",
       "description": "Official Yuuki impact shake + flash punch with Motion Tile mirror edges & native velocity decay.",
       "requiredPlugins": [],
-      "tags": ["shake", "impact", "native", "anime"],
+      "tags": [
+        "shake",
+        "impact",
+        "native",
+        "anime"
+      ],
       "thumbUrl": "",
       "previewUrl": "",
       "downloadUrl": "https://raw.githubusercontent.com/PersonaLifeII/Yuuki-Library/main/assets/Sakura_Impact_Shake.yfx",
@@ -36,7 +63,12 @@
       "createdAt": "2026-11-21",
       "description": "Crisp highlights + native soft glow & contrast look built for anime & AMV edits.",
       "requiredPlugins": [],
-      "tags": ["cc", "glow", "anime", "halation"],
+      "tags": [
+        "cc",
+        "glow",
+        "anime",
+        "halation"
+      ],
       "thumbUrl": "",
       "previewUrl": "",
       "downloadUrl": "https://raw.githubusercontent.com/PersonaLifeII/Yuuki-Library/main/assets/Yuuki_Soft_Anime_Glow.yfx",
